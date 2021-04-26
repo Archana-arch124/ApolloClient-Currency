@@ -1,8 +1,8 @@
-import Currency from './ApolloClient/currency';
+import Currency from "./Components/currency";
 
 function App() {
   return (
-    <Currency />
+    <Currency/>
   );
 }
 
